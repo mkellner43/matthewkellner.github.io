@@ -2,7 +2,7 @@
   "name": "personal-portfolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mkellner43.github.io/personal-portfolio-react",
+  "homepage": "https://mkellner43.github.io/",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@emotion/react": "^11.11.1",
